@@ -1,7 +1,4 @@
 aaa
 bbb
-<<<<<<< HEAD
 ccc
-=======
-clone_ccc
->>>>>>> 7c2d53ee85c751abd7e0dca1625ffe31bf7d6147
+
