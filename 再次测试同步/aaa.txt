@@ -1,4 +1,1 @@
 aaa
-bbb
-clone_cccbbb
-ccc
